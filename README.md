@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🚀 Kalil Sacko
 
-<!--
-**sackokalil/sackokalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master student in Computer Science at Hochschule Bochum.
 
-Here are some ideas to get you started:
+Passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Backend Development
+- IoT Systems
+- Cybersecurity
+- Fullstack Development
+
+---
+
+# 🌄 Scenery Classification with MobileNetV2
+
+Deep learning project for image classification using TensorFlow/Keras and MobileNetV2.
+
+The project uses transfer learning and fine-tuning techniques to classify scenery images into 6 different categories.
+
+## Features
+
+- Transfer Learning with MobileNetV2
+- Data Augmentation
+- Fine-Tuning
+- EarlyStopping
+- ModelCheckpoint
+- Prediction Export as CSV
+
+## Technologies
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+
+## Repository
+
+🔗 Coming soon...
+
+---
+
+# 📫 Contact
+
+- GitHub: https://github.com/sackokalil
