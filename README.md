@@ -40,7 +40,7 @@ The project uses transfer learning and fine-tuning techniques to classify scener
 
 ## Repository
 
-🔗 Coming soon...
+🔗 https://github.com/sackokalil/scenery-classification
 
 ---
 
