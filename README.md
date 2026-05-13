@@ -1,6 +1,6 @@
 # 🚀 Kalil Sacko
 
-Master student in Computer Science at Hochschule Bochum.
+Master student in Computer Science at University of applied Sciences Bochum (Hochschule Bochum).
 
 Passionate about:
 
