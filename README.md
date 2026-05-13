@@ -162,6 +162,38 @@ The project implements the complete compilation pipeline for arithmetic expressi
 
 🔗 [Open Project](https://github.com/sackokalil/my-minicompiler)
 
+
+---
+
+# 🦠 COVID-19 Next Week Death Prediction
+
+Machine learning and data analysis project for predicting COVID-19 deaths for the following week using exploratory data analysis, preprocessing, regression, and forecasting techniques.
+
+The project was mainly developed inside Jupyter Notebooks and combines statistical analysis with machine learning workflows.
+
+## Features
+
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Geographic visualization
+- Data preprocessing
+- Regression modeling
+- Forecasting and prediction
+- CSV/XLSX prediction export
+
+## Technologies
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/COVID-19-Next-Week-Death-Prediction)
+
 ---
 
 # 📫 Contact
