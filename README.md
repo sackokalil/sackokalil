@@ -101,6 +101,36 @@ The project classifies grayscale fashion images into 10 different clothing categ
 
 🔗 [Open Project](https://github.com/sackokalil/fashion-mnist-cnn)
 
+
+---
+
+# 📈 1D CNN Signal Classification
+
+Deep learning project for multivariate time-series classification using a 1D Convolutional Neural Network implemented with TensorFlow/Keras.
+
+The project processes 3-channel signal data and generates Kaggle-compatible predictions.
+
+## Features
+
+- 1D CNN architecture
+- Signal preprocessing pipeline
+- Channel-wise standardization
+- EarlyStopping
+- ModelCheckpoint
+- ReduceLROnPlateau
+- Kaggle CSV prediction export
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/1d-cnn-signal-classification)
+
 ---
 
 # 📫 Contact
