@@ -47,3 +47,29 @@ The project uses transfer learning and fine-tuning techniques to classify scener
 # 📫 Contact
 
 - GitHub: https://github.com/sackokalil
+
+  ---
+
+# 🩺 Breast Cancer Classification with MLP and Gradio
+
+Interactive deep learning project for breast cancer classification using TensorFlow/Keras and Gradio.
+
+The project includes:
+
+- MLP neural network training
+- Hyperparameter tuning
+- Interactive Gradio interface
+- Prediction on validation samples
+- Automatic checkpoint saving
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- Gradio
+- NumPy
+- Scikit-learn
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/breast-cancer-mlp-gradio)
