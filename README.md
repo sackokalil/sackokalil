@@ -131,6 +131,37 @@ The project processes 3-channel signal data and generates Kaggle-compatible pred
 
 🔗 [Open Project](https://github.com/sackokalil/1d-cnn-signal-classification)
 
+
+---
+
+# 🧠 Mini Compiler for Arithmetic Expressions
+
+Mini compiler/interpreter project developed in Python in the context of Compiler Construction (Compilerbau).
+
+The project implements the complete compilation pipeline for arithmetic expressions.
+
+## Features
+
+- Lexical Analysis (Lexer)
+- Recursive Descent Parser
+- Abstract Syntax Tree (AST)
+- Intermediate Code Generation
+- Virtual Stack Machine Execution
+- Runtime and Syntax Error Handling
+- Operator Precedence Management
+- Interactive Shell Interface
+
+## Technologies
+
+- Python
+- Recursive Descent Parsing
+- Stack Machine Execution
+- Compiler Construction Concepts
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/my-minicompiler)
+
 ---
 
 # 📫 Contact
