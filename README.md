@@ -40,13 +40,7 @@ The project uses transfer learning and fine-tuning techniques to classify scener
 
 ## Repository
 
-🔗 https://github.com/sackokalil/scenery-classification
-
----
-
-# 📫 Contact
-
-- GitHub: https://github.com/sackokalil
+🔗 [Open Project](https://github.com/sackokalil/scenery-classification)
 
   ---
 
@@ -73,3 +67,10 @@ The project includes:
 ## Project Repository
 
 🔗 [Open Project](https://github.com/sackokalil/breast-cancer-mlp-gradio)
+
+---
+
+# 📫 Contact
+
+- GitHub: https://github.com/sackokalil
+
