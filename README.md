@@ -68,6 +68,39 @@ The project includes:
 
 🔗 [Open Project](https://github.com/sackokalil/breast-cancer-mlp-gradio)
 
+
+---
+
+# 👕 Fashion MNIST Classification with CNN
+
+Deep learning project for Fashion MNIST image classification using a Convolutional Neural Network (CNN) implemented with TensorFlow/Keras.
+
+The project classifies grayscale fashion images into 10 different clothing categories.
+
+## Features
+
+- CNN-based image classification
+- Image preprocessing pipeline
+- One-hot encoding
+- Training/Validation split
+- EarlyStopping
+- ModelCheckpoint
+- ReduceLROnPlateau
+- Confusion Matrix generation
+- CSV prediction export
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/fashion-mnist-cnn)
+
 ---
 
 # 📫 Contact
