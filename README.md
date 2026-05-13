@@ -194,6 +194,40 @@ The project was mainly developed inside Jupyter Notebooks and combines statistic
 
 🔗 [Open Project](https://github.com/sackokalil/COVID-19-Next-Week-Death-Prediction)
 
+
+---
+
+# 🚦 German Traffic Signs Classification with CNN (GTSRB)
+
+Deep learning project for German traffic sign recognition using Convolutional Neural Networks (CNNs) implemented with TensorFlow/Keras.
+
+The project is based on the German Traffic Sign Recognition Benchmark (GTSRB) dataset and was developed in the context of Computer Vision for Autonomous Driving.
+
+## Features
+
+- Traffic sign image classification
+- CNN architecture
+- Exploratory Data Analysis (EDA)
+- Data Augmentation
+- Image preprocessing and normalization
+- Accuracy and loss visualization
+- Confusion Matrix generation
+- Prediction confidence analysis
+- Literature comparison
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/german-traffic-signs-classification)
+
 ---
 
 # 📫 Contact
