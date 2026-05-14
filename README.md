@@ -122,6 +122,57 @@ The project includes:
 
 ---
 
+# 🔗 gRPC and GraphQL Banking Service Demo
+
+Comparative study and demonstration project exploring modern backend communication technologies using GraphQL and gRPC with Spring Boot and MongoDB.
+
+The project demonstrates the architecture, communication models, strengths, and practical use cases of both technologies through a banking service example.
+
+## Features
+
+- GraphQL queries and mutations
+- gRPC unary communication
+- gRPC server streaming
+- Protocol Buffers serialization
+- Generated Java stubs
+- MongoDB persistence
+- DTO and entity mapping
+- REST-to-gRPC communication
+- Distributed backend communication
+- Java demonstration client
+
+## Technologies
+
+- Java
+- Spring Boot
+- Spring GraphQL
+- gRPC
+- Protocol Buffers (protobuf)
+- MongoDB
+- Spring Data MongoDB
+- Maven
+
+## Testing Tools
+
+The services are tested using:
+
+- Altair GraphQL Client
+- BloomRPC
+- browser-accessible REST endpoints for demonstration purposes
+
+Example endpoint:
+
+```text
+http://localhost:8082/grpc/accounts/6835d132cdb8cf8ecdedb332
+```
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/bank-grpc-graphql-service)
+
+
+---
+
 # 👕 Fashion MNIST Classification with CNN
 
 Deep learning project for Fashion MNIST image classification using a Convolutional Neural Network (CNN) implemented with TensorFlow/Keras.
