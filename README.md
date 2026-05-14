@@ -12,6 +12,57 @@ Passionate about:
 - Cybersecurity
 - Fullstack Development
 
+
+---
+
+# 🏭 Industrial IoT Monitoring System
+
+Industrial IoT (IIoT) project for real-time monitoring and control of SPS/PLC devices using MQTT, Spring Boot, Angular, MongoDB, Prometheus and Grafana.
+
+The system communicates with industrial controllers (WAGO and Siemens SPS/PLC) through MQTT and provides real-time monitoring and remote control features.
+
+## Features
+
+- MQTT communication with SPS/PLC devices
+- Real-time lamp status monitoring
+- Temperature monitoring
+- Remote SPS mode control
+- REST API communication
+- MongoDB persistence
+- Automatic MQTT reconnection
+- Prometheus metrics collection
+- Grafana monitoring dashboards
+- Logging system with Logback
+- Unit testing and JaCoCo coverage reports
+
+## Technologies
+
+### Backend
+
+- Java
+- Spring Boot
+- Eclipse Paho MQTT
+- MongoDB
+- Maven
+
+### Frontend
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+### Monitoring & DevOps
+
+- Prometheus
+- Grafana
+- Docker
+- JaCoCo
+
+## Project Repository
+
+🔗 [Open Project](https://github.com/sackokalil/industrial-iot-monitoring-system)
+
 ---
 
 # 🌄 Scenery Classification with MobileNetV2
