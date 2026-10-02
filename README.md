@@ -1,10 +1,12 @@
 <div align="center">
 
-<h1>Kalil Sacko</h1>
+<h1>Hi, I'm Kalil Sacko 👋</h1>
 
-<h3>Master's Student in Computer Science</h3>
+<h2>Master's Student in Computer Science</h2>
 
-<p><strong>Applied AI &amp; Data Science · Backend Engineering · Industrial IoT · IT Security</strong></p>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0969DA&center=true&vCenter=true&width=850&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
+</p>
 
 <p>
   I design and implement end-to-end systems that connect machine learning, backend services,<br />
@@ -22,9 +24,9 @@
 
 <p>
   <a href="#professional-profile">Profile</a> ·
+  <a href="#technical-ecosystem">Technologies</a> ·
   <a href="#core-expertise">Expertise</a> ·
   <a href="#featured-projects">Featured Projects</a> ·
-  <a href="#technical-ecosystem">Technologies</a> ·
   <a href="#ai-data-portfolio">AI &amp; Data Portfolio</a> ·
   <a href="#contact">Contact</a>
 </p>
@@ -41,6 +43,13 @@ I am a **Master's student in Computer Science** at **Bochum University of Applie
 
 My projects range from computer vision and time-series classification to Spring Boot services, MQTT-based SPS/PLC monitoring, modern Next.js applications, and an OWASP-oriented IT Security Lab. This multidisciplinary approach helps me understand not only how an individual component works, but also how data, APIs, interfaces, devices, monitoring, and security fit together in a real system.
 
+- 🧠 Building machine learning and deep learning solutions for images, signals, and structured data
+- 🏭 Connecting SPS/PLC devices to real-time monitoring platforms through MQTT
+- 🔗 Designing backend services with REST, GraphQL, gRPC, and Protocol Buffers
+- 🛡️ Exploring web security through intentionally vulnerable applications and automated exploits
+- 🌐 Developing full-stack applications with Next.js, React, Angular, TypeScript, and SQL
+- 🧩 Strengthening computer science foundations through compiler and interpreter construction
+
 ### What I Bring
 
 - **End-to-end engineering:** from data preparation and model training to APIs, user interfaces, persistence, and monitoring
@@ -48,6 +57,63 @@ My projects range from computer vision and time-series classification to Spring 
 - **Backend depth:** REST, GraphQL, gRPC, Protocol Buffers, Spring Boot, MongoDB, and distributed communication
 - **Connected-systems thinking:** MQTT integration, SPS/PLC communication, real-time telemetry, Prometheus, and Grafana
 - **Security awareness:** practical exploration of OWASP-style web vulnerabilities, automated exploits, and mitigation techniques
+
+---
+
+<a id="technical-ecosystem"></a>
+
+## 🛠️ Technical Ecosystem
+
+### AI, Machine Learning & Data
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+</p>
+
+### Backend, APIs & Data Storage
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Protocol Buffers" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### Frontend & Full Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
+
+### IoT, Observability, Testing & Delivery
+
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/JaCoCo-CB2533?style=for-the-badge" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
@@ -155,63 +221,6 @@ A full-stack dashboard application built by following the official Next.js Learn
 **Demo credentials:** `user@gmail.com` · `123456`
 
 [![Open the live dashboard](https://img.shields.io/badge/Open_Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dashboard-next-js-dusky.vercel.app/)
-
----
-
-<a id="technical-ecosystem"></a>
-
-## 🛠️ Technical Ecosystem
-
-### AI, Machine Learning & Data
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
-</p>
-
-### Backend, APIs & Data Storage
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Frontend & Full Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-</p>
-
-### IoT, Observability, Testing & Delivery
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/JaCoCo-CB2533?style=flat-square" alt="JaCoCo" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
 
 ---
 
