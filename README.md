@@ -5,7 +5,7 @@
 <h2>Master's Student in Computer Science</h2>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0969DA&center=true&vCenter=true&width=850&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=7C3AED&center=true&vCenter=true&width=900&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
 </p>
 
 <p>
@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/sackokalil?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kalil Sacko's GitHub projects" />
+    <img src="https://img.shields.io/badge/Explore_My_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kalil Sacko's GitHub projects" />
   </a>
   <a href="https://www.linkedin.com/in/kalil-sacko-50a927264/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Kalil Sacko on LinkedIn" />
@@ -23,12 +23,12 @@
 </p>
 
 <p>
-  <a href="#professional-profile">Profile</a> ·
-  <a href="#technical-ecosystem">Technologies</a> ·
-  <a href="#core-expertise">Expertise</a> ·
-  <a href="#featured-projects">Featured Projects</a> ·
-  <a href="#ai-data-portfolio">AI &amp; Data Portfolio</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#professional-profile"><img src="https://img.shields.io/badge/Profile-4F46E5?style=for-the-badge&logoColor=white" alt="Go to professional profile" /></a>
+  <a href="#technical-ecosystem"><img src="https://img.shields.io/badge/Technologies-F59E0B?style=for-the-badge&logoColor=white" alt="Go to technical ecosystem" /></a>
+  <a href="#core-expertise"><img src="https://img.shields.io/badge/Expertise-10B981?style=for-the-badge&logoColor=white" alt="Go to core expertise" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-EF4444?style=for-the-badge&logoColor=white" alt="Go to featured projects" /></a>
+  <a href="#ai-data-portfolio"><img src="https://img.shields.io/badge/AI_%26_Data-8B5CF6?style=for-the-badge&logoColor=white" alt="Go to AI and data portfolio" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-0EA5E9?style=for-the-badge&logoColor=white" alt="Go to contact section" /></a>
 </p>
 
 </div>
@@ -37,7 +37,7 @@
 
 <a id="professional-profile"></a>
 
-## 👨🏾‍💻 Professional Profile
+# 👨🏾‍💻 Professional Profile
 
 I am a **Master's student in Computer Science** at **Bochum University of Applied Sciences (Hochschule Bochum)**, focused on turning technical concepts into complete, working systems. My portfolio combines **AI and data science**, **backend and distributed services**, **industrial connectivity**, **full-stack development**, and **web application security**.
 
@@ -50,7 +50,7 @@ My projects range from computer vision and time-series classification to Spring 
 - 🌐 Developing full-stack applications with Next.js, React, Angular, TypeScript, and SQL
 - 🧩 Strengthening computer science foundations through compiler and interpreter construction
 
-### What I Bring
+## What I Bring
 
 - **End-to-end engineering:** from data preparation and model training to APIs, user interfaces, persistence, and monitoring
 - **Applied AI experience:** image classification, signal classification, regression, transfer learning, fine-tuning, and model evaluation
@@ -62,9 +62,9 @@ My projects range from computer vision and time-series classification to Spring 
 
 <a id="technical-ecosystem"></a>
 
-## 🛠️ Technical Ecosystem
+# 🛠️ Technical Ecosystem
 
-### AI, Machine Learning & Data
+## AI, Machine Learning & Data
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -77,7 +77,7 @@ My projects range from computer vision and time-series classification to Spring 
   <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
 </p>
 
-### Backend, APIs & Data Storage
+## Backend, APIs & Data Storage
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -90,7 +90,7 @@ My projects range from computer vision and time-series classification to Spring 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Frontend & Full Stack
+## Frontend & Full Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -101,7 +101,7 @@ My projects range from computer vision and time-series classification to Spring 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
-### IoT, Observability, Testing & Delivery
+## IoT, Observability, Testing & Delivery
 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
@@ -119,7 +119,7 @@ My projects range from computer vision and time-series classification to Spring 
 
 <a id="core-expertise"></a>
 
-## 🧭 Core Expertise
+# 🧭 Core Expertise
 
 | Engineering Domain | Demonstrated Through |
 | --- | --- |
@@ -133,9 +133,9 @@ My projects range from computer vision and time-series classification to Spring 
 
 <a id="featured-projects"></a>
 
-## 🚀 Featured Engineering Projects
+# 🚀 Featured Engineering Projects
 
-### 🏭 [Industrial IoT Monitoring System](https://github.com/sackokalil/industrial-iot-monitoring-system)
+## 🏭 [Industrial IoT Monitoring System](https://github.com/sackokalil/industrial-iot-monitoring-system)
 
 **Engineering focus:** Real-time industrial communication, remote control, persistence, and observability.
 
@@ -164,7 +164,7 @@ The system communicates with industrial controllers (WAGO and Siemens SPS/PLC) t
 
 ---
 
-### 🛡️ [VulnShop — IT Security Lab](https://github.com/sackokalil/Vulnshop-IT-Security)
+## 🛡️ [VulnShop — IT Security Lab](https://github.com/sackokalil/Vulnshop-IT-Security)
 
 **Engineering focus:** Web application security, vulnerability demonstration, exploit automation, and mitigation analysis.
 
@@ -186,7 +186,7 @@ VulnShop is an intentionally vulnerable e-commerce web application developed as 
 
 ---
 
-### 🔗 [gRPC and GraphQL Banking Service Demo](https://github.com/sackokalil/bank-grpc-graphql-service)
+## 🔗 [gRPC and GraphQL Banking Service Demo](https://github.com/sackokalil/bank-grpc-graphql-service)
 
 **Engineering focus:** Comparing modern API paradigms and distributed backend communication.
 
@@ -210,7 +210,7 @@ The project demonstrates the architecture, communication models, strengths, and 
 
 ---
 
-### 📊 [Next.js Full-Stack Dashboard](https://github.com/sackokalil/Dashboard-next.js)
+## 📊 [Next.js Full-Stack Dashboard](https://github.com/sackokalil/Dashboard-next.js)
 
 **Engineering focus:** Server-rendered full-stack development, authenticated workflows, data mutations, search, and pagination.
 
@@ -226,10 +226,12 @@ A full-stack dashboard application built by following the official Next.js Learn
 
 <a id="ai-data-portfolio"></a>
 
-## 🧠 AI & Data Science Portfolio
+# 🧠 AI & Data Science Portfolio
+
+## 🌄 Scenery Classification with MobileNetV2
 
 <details open>
-<summary><strong>🌄 Scenery Classification with MobileNetV2</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Deep learning project for image classification using TensorFlow/Keras and MobileNetV2.
 
@@ -243,8 +245,10 @@ The project uses transfer learning and fine-tuning techniques to classify scener
 
 </details>
 
+## 🩺 Breast Cancer Classification with MLP and Gradio
+
 <details>
-<summary><strong>🩺 Breast Cancer Classification with MLP and Gradio</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Interactive deep learning project for breast cancer classification using TensorFlow/Keras and Gradio.
 
@@ -262,8 +266,10 @@ The project includes:
 
 </details>
 
+## 👕 Fashion MNIST Classification with CNN
+
 <details>
-<summary><strong>👕 Fashion MNIST Classification with CNN</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Deep learning project for Fashion MNIST image classification using a Convolutional Neural Network (CNN) implemented with TensorFlow/Keras.
 
@@ -277,8 +283,10 @@ The project classifies grayscale fashion images into 10 different clothing categ
 
 </details>
 
+## 📈 1D CNN Signal Classification
+
 <details>
-<summary><strong>📈 1D CNN Signal Classification</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Deep learning project for multivariate time-series classification using a 1D Convolutional Neural Network implemented with TensorFlow/Keras.
 
@@ -292,8 +300,10 @@ The project processes 3-channel signal data and generates Kaggle-compatible pred
 
 </details>
 
+## 🦠 COVID-19 Next Week Death Prediction
+
 <details>
-<summary><strong>🦠 COVID-19 Next Week Death Prediction</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Machine learning and data analysis project for predicting COVID-19 deaths for the following week using exploratory data analysis, preprocessing, regression, and forecasting techniques.
 
@@ -307,8 +317,10 @@ The project was mainly developed inside Jupyter Notebooks and combines statistic
 
 </details>
 
+## 🚦 German Traffic Signs Classification with CNN (GTSRB)
+
 <details>
-<summary><strong>🚦 German Traffic Signs Classification with CNN (GTSRB)</strong></summary>
+<summary><strong>View project details</strong></summary>
 
 Deep learning project for German traffic sign recognition using Convolutional Neural Networks (CNNs) implemented with TensorFlow/Keras.
 
@@ -324,9 +336,9 @@ The project is based on the German Traffic Sign Recognition Benchmark (GTSRB) da
 
 ---
 
-## 🧩 Computer Science Foundations
+# 🧩 Computer Science Foundations
 
-### [Mini Compiler for Arithmetic Expressions](https://github.com/sackokalil/my-minicompiler)
+## [Mini Compiler for Arithmetic Expressions](https://github.com/sackokalil/my-minicompiler)
 
 Mini compiler/interpreter project developed in Python in the context of Compiler Construction (Compilerbau).
 
@@ -350,7 +362,7 @@ The project implements the complete compilation pipeline for arithmetic expressi
 
 ---
 
-## 🌐 More Web & Learning Projects
+# 🌐 More Web & Learning Projects
 
 | Project | Description | Main Technologies |
 | --- | --- | --- |
@@ -359,7 +371,7 @@ The project implements the complete compilation pipeline for arithmetic expressi
 
 ---
 
-## 💻 Languages Used
+# 💻 Languages Used
 
 <div align="center">
 
@@ -377,7 +389,7 @@ The project implements the complete compilation pipeline for arithmetic expressi
 
 <a id="contact"></a>
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I am interested in opportunities and collaborations involving **AI/ML and data science, backend engineering, Industrial IoT, IT security, application security, and full-stack development**.
 
