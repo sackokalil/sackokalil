@@ -25,7 +25,7 @@
 <p>
   <a href="#professional-profile"><img src="https://img.shields.io/badge/Profile-4F46E5?style=for-the-badge&logoColor=white" alt="Go to professional profile" /></a>
   <a href="#technical-ecosystem"><img src="https://img.shields.io/badge/Technologies-F59E0B?style=for-the-badge&logoColor=white" alt="Go to technical ecosystem" /></a>
-  <a href="#core-expertise"><img src="https://img.shields.io/badge/Expertise-10B981?style=for-the-badge&logoColor=white" alt="Go to core expertise" /></a>
+  <a href="#core-expertise"><img src="https://img.shields.io/badge/Competences-10B981?style=for-the-badge&logoColor=white" alt="Go to core expertise" /></a>
   <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-FACC15?style=for-the-badge&logoColor=white" alt="Go to featured projects" /></a>
   <a href="#ai-data-portfolio"><img src="https://img.shields.io/badge/AI_%26_Data-8B5CF6?style=for-the-badge&logoColor=white" alt="Go to AI and data portfolio" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-0EA5E9?style=for-the-badge&logoColor=white" alt="Go to contact section" /></a>
