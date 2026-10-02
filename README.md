@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Kalil Sacko 👋</h1>
 
-<h3>Computer Science Master's Student · AI/ML · Software Engineering · Industrial IoT · Cybersecurity</h3>
+<h3>Computer Science Master's Student · AI/ML/Data science · Software Engineering · Industrial IoT · IT Security</h3>
 
 <p>
   I build intelligent, connected, and secure software systems — from deep learning models and distributed APIs to industrial monitoring platforms and full-stack applications.
