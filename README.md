@@ -26,7 +26,7 @@
   <a href="#professional-profile"><img src="https://img.shields.io/badge/Profile-4F46E5?style=for-the-badge&logoColor=white" alt="Go to professional profile" /></a>
   <a href="#technical-ecosystem"><img src="https://img.shields.io/badge/Technologies-F59E0B?style=for-the-badge&logoColor=white" alt="Go to technical ecosystem" /></a>
   <a href="#core-expertise"><img src="https://img.shields.io/badge/Expertise-10B981?style=for-the-badge&logoColor=white" alt="Go to core expertise" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-EF4444?style=for-the-badge&logoColor=white" alt="Go to featured projects" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Featured_Projects-FACC15?style=for-the-badge&logoColor=white" alt="Go to featured projects" /></a>
   <a href="#ai-data-portfolio"><img src="https://img.shields.io/badge/AI_%26_Data-8B5CF6?style=for-the-badge&logoColor=white" alt="Go to AI and data portfolio" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-0EA5E9?style=for-the-badge&logoColor=white" alt="Go to contact section" /></a>
 </p>
@@ -108,9 +108,9 @@ My projects range from computer vision and time-series classification to Spring 
   <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Prometheus-DC2626?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-C2410C?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Maven-C2410C?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Maven-DB2777?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Selenium-047857?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/JaCoCo-B45309?style=for-the-badge" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/JaCoCo-0D9488?style=for-the-badge" alt="JaCoCo" />
   <img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-334155?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
