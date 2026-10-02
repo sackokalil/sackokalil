@@ -194,6 +194,11 @@ A full-stack dashboard application built by following the official Next.js Learn
 
 `Next.js` · `React` · `TypeScript` · `SQL` · `Zod` · `Tailwind CSS` · `Vercel`
 
+Use the following credentials to explore the dashboard:
+
+- **Email:** `user@gmail.com`
+- **Password:** `123456`
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Dashboard-000000?style=flat-square&logo=vercel&logoColor=white)](https://dashboard-next-js-dusky.vercel.app/)
 
 ---
