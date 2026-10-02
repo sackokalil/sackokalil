@@ -74,7 +74,7 @@ My projects range from computer vision and time-series classification to Spring 
   <img src="https://img.shields.io/badge/NumPy-14B8A6?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-EA580C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Jupyter-6366F1?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Gradio-CA8A04?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Gradio-4F46E5?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
 </p>
 
 ## Backend, APIs & Data Storage
