@@ -120,7 +120,7 @@ My projects range from computer vision and time-series classification to Spring 
 
 <a id="core-expertise"></a>
 
-# 🧭 Core Expertise
+# 🧭 Core Competencies
 
 | Engineering Domain | Demonstrated Through |
 | --- | --- |
