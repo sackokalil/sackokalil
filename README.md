@@ -5,7 +5,7 @@
 <h2>Master's Student in Computer Science</h2>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=F59E0B&center=true&vCenter=true&width=900&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Deep+Learning;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=FACC15&center=true&vCenter=true&width=900&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Deep+Learning;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
 </p>
 
 <p>
