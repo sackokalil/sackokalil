@@ -1,125 +1,77 @@
 <div align="center">
 
-<h1>Hi, I'm Kalil Sacko 👋</h1>
+<h1>Kalil Sacko</h1>
 
-<h3>Computer Science Master's Student · AI/ML/Data science · Software Engineering · Industrial IoT · IT Security</h3>
+<h3>Master's Student in Computer Science</h3>
+
+<p><strong>Applied AI &amp; Data Science · Backend Engineering · Industrial IoT · IT Security</strong></p>
 
 <p>
-  I build intelligent, connected, and secure software systems — from deep learning models and distributed APIs to industrial monitoring platforms and full-stack applications.
+  I design and implement end-to-end systems that connect machine learning, backend services,<br />
+  web applications, industrial devices, observability, and application security.
 </p>
 
 <p>
-  <a href="https://github.com/sackokalil">
-    <img src="https://img.shields.io/badge/GitHub-sackokalil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
   <a href="https://github.com/sackokalil?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+    <img src="https://img.shields.io/badge/Explore_My_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kalil Sacko's GitHub projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalil-sacko-50a927264/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Kalil Sacko on LinkedIn" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sackokalil&style=flat-square&color=0969DA" alt="Profile views" />
+  <a href="#professional-profile">Profile</a> ·
+  <a href="#core-expertise">Expertise</a> ·
+  <a href="#featured-projects">Featured Projects</a> ·
+  <a href="#technical-ecosystem">Technologies</a> ·
+  <a href="#ai-data-portfolio">AI &amp; Data Portfolio</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 </div>
 
 ---
 
-## 👨🏾‍💻 About Me
+<a id="professional-profile"></a>
 
-I am a **Master's student in Computer Science** at **Bochum University of Applied Sciences (Hochschule Bochum)**. My work sits at the intersection of intelligent systems, modern software engineering, connected industrial environments, and application security.
+## 👨🏾‍💻 Professional Profile
 
-- 🧠 Building machine learning and deep learning solutions for images, signals, and structured data
-- 🏭 Connecting SPS/PLC devices to real-time monitoring platforms through MQTT
-- 🔗 Designing backend services with REST, GraphQL, gRPC, and Protocol Buffers
-- 🛡️ Exploring web security through intentionally vulnerable applications and automated exploits
-- 🌐 Developing full-stack applications with Next.js, React, Angular, TypeScript, and SQL
-- 🧩 Strengthening computer science foundations through compiler and interpreter construction
+I am a **Master's student in Computer Science** at **Bochum University of Applied Sciences (Hochschule Bochum)**, focused on turning technical concepts into complete, working systems. My portfolio combines **AI and data science**, **backend and distributed services**, **industrial connectivity**, **full-stack development**, and **web application security**.
+
+My projects range from computer vision and time-series classification to Spring Boot services, MQTT-based SPS/PLC monitoring, modern Next.js applications, and an OWASP-oriented IT Security Lab. This multidisciplinary approach helps me understand not only how an individual component works, but also how data, APIs, interfaces, devices, monitoring, and security fit together in a real system.
+
+### What I Bring
+
+- **End-to-end engineering:** from data preparation and model training to APIs, user interfaces, persistence, and monitoring
+- **Applied AI experience:** image classification, signal classification, regression, transfer learning, fine-tuning, and model evaluation
+- **Backend depth:** REST, GraphQL, gRPC, Protocol Buffers, Spring Boot, MongoDB, and distributed communication
+- **Connected-systems thinking:** MQTT integration, SPS/PLC communication, real-time telemetry, Prometheus, and Grafana
+- **Security awareness:** practical exploration of OWASP-style web vulnerabilities, automated exploits, and mitigation techniques
 
 ---
 
-## 🧭 Engineering Profile
+<a id="core-expertise"></a>
 
-| Domain | What I Work With |
+## 🧭 Core Expertise
+
+| Engineering Domain | Demonstrated Through |
 | --- | --- |
-| **Artificial Intelligence** | Image classification, CNNs, MLPs, transfer learning, fine-tuning, data augmentation, time-series classification, regression, model evaluation |
-| **Backend & Distributed Systems** | Spring Boot, REST APIs, GraphQL, gRPC, Protocol Buffers, server streaming, DTO/entity mapping, MongoDB |
-| **Industrial IoT & Observability** | MQTT, Eclipse Paho, SPS/PLC, WAGO and Siemens controllers, real-time monitoring, Prometheus, Grafana |
-| **Cybersecurity** | OWASP Top 10, SQL injection, XSS, CSRF, IDOR, path traversal, broken authentication, automated exploit demonstrations |
-| **Full-Stack Development** | Next.js App Router, React Server Components, Server Actions, Angular, TypeScript, Tailwind CSS, Zod, SQL |
+| **AI, Machine Learning & Data Science** | Computer vision, CNNs, MLPs, transfer learning, time-series classification, regression, exploratory data analysis, preprocessing, and model evaluation |
+| **Backend & Distributed Systems** | Spring Boot, REST APIs, GraphQL, gRPC, Protocol Buffers, server streaming, DTO/entity mapping, Maven, and MongoDB |
+| **Industrial IoT & Observability** | MQTT, Eclipse Paho, SPS/PLC, WAGO and Siemens controllers, real-time monitoring, Prometheus, Grafana, and Docker |
+| **IT Security & Application Security** | OWASP Top 10, SQL injection, XSS, CSRF, IDOR, path traversal, broken authentication, exploit automation, and mitigation analysis |
+| **Full-Stack Development** | Next.js App Router, React Server Components, Server Actions, Angular, TypeScript, Tailwind CSS, Zod, authentication, SQL, and deployment |
 
 ---
 
-## 🛠️ Technical Toolbox
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### AI, Machine Learning & Data
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
-</p>
-
-### Backend, APIs & Data Storage
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Protocol Buffers" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Frontend & Full Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
-
-### IoT, Observability, Testing & Delivery
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/JaCoCo-CB2533?style=for-the-badge&logo=java&logoColor=white" alt="JaCoCo" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
+<a id="featured-projects"></a>
 
 ## 🚀 Featured Engineering Projects
 
 ### 🏭 [Industrial IoT Monitoring System](https://github.com/sackokalil/industrial-iot-monitoring-system)
+
+**Engineering focus:** Real-time industrial communication, remote control, persistence, and observability.
 
 Industrial IoT (IIoT) project for real-time monitoring and control of SPS/PLC devices using MQTT, Spring Boot, Angular, MongoDB, Prometheus and Grafana.
 
@@ -148,6 +100,8 @@ The system communicates with industrial controllers (WAGO and Siemens SPS/PLC) t
 
 ### 🛡️ [VulnShop — IT Security Lab](https://github.com/sackokalil/Vulnshop-IT-Security)
 
+**Engineering focus:** Web application security, vulnerability demonstration, exploit automation, and mitigation analysis.
+
 VulnShop is an intentionally vulnerable e-commerce web application developed as part of an IT Security project. It combines a simplified online shop with an integrated Security Lab to demonstrate common web application vulnerabilities, illustrate how they can be exploited, and present basic mitigation techniques in an educational environment.
 
 `Python` · `Flask` · `SQLite` · `Selenium` · `HTML` · `CSS` · `JavaScript` · `OWASP Top 10`
@@ -167,6 +121,8 @@ VulnShop is an intentionally vulnerable e-commerce web application developed as 
 ---
 
 ### 🔗 [gRPC and GraphQL Banking Service Demo](https://github.com/sackokalil/bank-grpc-graphql-service)
+
+**Engineering focus:** Comparing modern API paradigms and distributed backend communication.
 
 Comparative study and demonstration project exploring modern backend communication technologies using GraphQL and gRPC with Spring Boot and MongoDB.
 
@@ -190,18 +146,76 @@ The project demonstrates the architecture, communication models, strengths, and 
 
 ### 📊 [Next.js Full-Stack Dashboard](https://github.com/sackokalil/Dashboard-next.js)
 
+**Engineering focus:** Server-rendered full-stack development, authenticated workflows, data mutations, search, and pagination.
+
 A full-stack dashboard application built by following the official Next.js Learn course. This project was created as a hands-on learning project to explore and practice modern Next.js concepts, including Server Components, Server Actions, data fetching, form validation, authentication, search, pagination, and database operations. The application provides a dashboard for managing customers and invoices while demonstrating how Next.js can be used to build a modern full-stack web application.
 
 `Next.js` · `React` · `TypeScript` · `SQL` · `Zod` · `Tailwind CSS` · `Vercel`
 
-Use the following credentials to explore the dashboard:
+**Demo credentials:** `user@gmail.com` · `123456`
 
-- **Email:** `user@gmail.com`
-- **Password:** `123456`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Dashboard-000000?style=flat-square&logo=vercel&logoColor=white)](https://dashboard-next-js-dusky.vercel.app/)
+[![Open the live dashboard](https://img.shields.io/badge/Open_Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dashboard-next-js-dusky.vercel.app/)
 
 ---
+
+<a id="technical-ecosystem"></a>
+
+## 🛠️ Technical Ecosystem
+
+### AI, Machine Learning & Data
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+</p>
+
+### Backend, APIs & Data Storage
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### Frontend & Full Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+</p>
+
+### IoT, Observability, Testing & Delivery
+
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/JaCoCo-CB2533?style=flat-square" alt="JaCoCo" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+<a id="ai-data-portfolio"></a>
 
 ## 🧠 AI & Data Science Portfolio
 
@@ -216,7 +230,7 @@ The project uses transfer learning and fine-tuning techniques to classify scener
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas · Matplotlib
 
-🔗 [Open Project](https://github.com/sackokalil/scenery-classification)
+🔗 [View the Scenery Classification repository](https://github.com/sackokalil/scenery-classification)
 
 </details>
 
@@ -235,7 +249,7 @@ The project includes:
 
 **Stack:** Python · TensorFlow · Keras · Gradio · NumPy · Scikit-learn
 
-🔗 [Open Project](https://github.com/sackokalil/breast-cancer-mlp-gradio)
+🔗 [View the Breast Cancer Classification repository](https://github.com/sackokalil/breast-cancer-mlp-gradio)
 
 </details>
 
@@ -250,7 +264,7 @@ The project classifies grayscale fashion images into 10 different clothing categ
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas · Matplotlib
 
-🔗 [Open Project](https://github.com/sackokalil/fashion-mnist-cnn)
+🔗 [View the Fashion MNIST repository](https://github.com/sackokalil/fashion-mnist-cnn)
 
 </details>
 
@@ -265,7 +279,7 @@ The project processes 3-channel signal data and generates Kaggle-compatible pred
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas
 
-🔗 [Open Project](https://github.com/sackokalil/1d-cnn-signal-classification)
+🔗 [View the Signal Classification repository](https://github.com/sackokalil/1d-cnn-signal-classification)
 
 </details>
 
@@ -280,7 +294,7 @@ The project was mainly developed inside Jupyter Notebooks and combines statistic
 
 **Stack:** Python · Jupyter Notebook · Pandas · NumPy · Matplotlib · Scikit-learn
 
-🔗 [Open Project](https://github.com/sackokalil/COVID-19-Next-Week-Death-Prediction)
+🔗 [View the COVID-19 Prediction repository](https://github.com/sackokalil/COVID-19-Next-Week-Death-Prediction)
 
 </details>
 
@@ -295,7 +309,7 @@ The project is based on the German Traffic Sign Recognition Benchmark (GTSRB) da
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas · Matplotlib · Jupyter Notebook
 
-🔗 [Open Project](https://github.com/sackokalil/german-traffic-signs-classification)
+🔗 [View the German Traffic Signs repository](https://github.com/sackokalil/german-traffic-signs-classification)
 
 </details>
 
@@ -331,29 +345,39 @@ The project implements the complete compilation pipeline for arithmetic expressi
 
 | Project | Description | Main Technologies |
 | --- | --- | --- |
-| [nextjs-my-todo](https://github.com/sackokalil/nextjs-my-todo) | A simple Todo app built while learning and practicing Next.js. | Next.js, React, TypeScript |
-| [python-machine-learning](https://github.com/sackokalil/python-machine-learning) | This repository contains personal notes, exercises, experiments, and practice files related to python, machine learning, data analysis, etc.. | Python, Jupyter Notebook, Machine Learning |
+| [Next.js Todo Application](https://github.com/sackokalil/nextjs-my-todo) | A simple Todo app built while learning and practicing Next.js. | Next.js, React, TypeScript |
+| [Python & Machine Learning Practice](https://github.com/sackokalil/python-machine-learning) | This repository contains personal notes, exercises, experiments, and practice files related to python, machine learning, data analysis, etc.. | Python, Jupyter Notebook, Machine Learning |
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Languages Used
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sackokalil&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Kalil's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sackokalil&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Kalil's most used languages" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 </div>
 
 ---
 
+<a id="contact"></a>
+
 ## 📫 Let's Connect
 
-I am interested in opportunities and collaborations involving **AI/ML, backend engineering, Industrial IoT, cybersecurity, and full-stack development**.
+I am interested in opportunities and collaborations involving **AI/ML and data science, backend engineering, Industrial IoT, IT security, application security, and full-stack development**.
 
 <p>
+  <a href="https://www.linkedin.com/in/kalil-sacko-50a927264/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalil_Sacko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kalil Sacko on LinkedIn" />
+  </a>
   <a href="https://github.com/sackokalil">
-    <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-sackokalil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kalil Sacko on GitHub" />
   </a>
 </p>
 
