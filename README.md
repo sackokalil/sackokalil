@@ -5,7 +5,7 @@
 <h2>Master's Student in Computer Science</h2>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=7C3AED&center=true&vCenter=true&width=900&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=B8860B&center=true&vCenter=true&width=900&lines=Applied+AI+%26+Data+Science;Backend+%26+Distributed+Systems;Industrial+IoT+%26+Observability;IT+Security+%26+Full-Stack+Development" alt="Animated introduction showing Kalil Sacko's engineering fields" />
 </p>
 
 <p>
@@ -106,10 +106,10 @@ My projects range from computer vision and time-series classification to Spring 
 <p>
   <img src="https://img.shields.io/badge/MQTT-7E22CE?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
   <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Prometheus-DC2626?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Prometheus-22C55E?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-C2410C?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Maven-DB2777?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Selenium-047857?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Selenium-D97706?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/JaCoCo-0D9488?style=for-the-badge" alt="JaCoCo" />
   <img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-334155?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
