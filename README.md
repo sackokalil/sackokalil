@@ -17,7 +17,7 @@
   <a href="https://github.com/sackokalil?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kalil Sacko's GitHub projects" />
   </a>
-  <a href="https://portfolio-kappa-azure-80.vercel.app/">
+  <a href="https://kalil-sacko-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-F05D4E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kalil Sacko's Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kalil-sacko-50a927264/">
